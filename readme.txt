@@ -1,0 +1,1 @@
+This is a date validation project using html5, css, and jquery.
